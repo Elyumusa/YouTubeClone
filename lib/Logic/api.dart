@@ -8,7 +8,7 @@ import 'package:youtube_clone/Models/video_model.dart';
 class API {
   API._();
   static final API instance = API._();
-  static const String _apiKey = "AIzaSyAVslsEPozJc5pq7GZbBhAsTHmYlnNIRiU";
+  static const String _apiKey = "";
   final _baseUrl = "www.googleapis.com";
   String _nextPageToken = "";
   final mrbea = 'UCUaT_39o1x6qWjz7K2pWcgw';
