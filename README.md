@@ -1,6 +1,6 @@
 # youtube_clone
 
-A new Flutter project.
+This is a YouTube clone dedicated only to mrbeast videos, created with flutter, bloc and the YouTube api
 
 ## Getting Started
 
