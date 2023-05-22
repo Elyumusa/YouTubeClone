@@ -23,3 +23,7 @@ This is a YouTube clone dedicated only to mrbeast videos, created with flutter, 
    - Video Page
    - Settings Page
  ## Photos:
+![Screenshot (283)](https://github.com/Elyumusa/YouTubeClone/assets/93226469/49228f34-4742-4a40-b490-476d8eb9a731)
+![Screenshot (284)](https://github.com/Elyumusa/YouTubeClone/assets/93226469/bdd21f6f-d671-4adc-98c9-9c39003d032c)
+![Screenshot (285)](https://github.com/Elyumusa/YouTubeClone/assets/93226469/69806d38-2d54-4ec8-9058-2803a79c2eba)
+
