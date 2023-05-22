@@ -18,7 +18,10 @@ This is a YouTube clone dedicated only to mrbeast videos, created with flutter, 
   
   
 
-https://github.com/Elyumusa/YouTubeClone/assets/93226469/72cad351-9249-4e19-895d-1634a97cd38c
+
+https://github.com/Elyumusa/YouTubeClone/assets/93226469/b8649d23-ed16-4216-839b-d79bb2fc3033
+
+
 
 
   
